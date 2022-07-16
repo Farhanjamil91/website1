@@ -20,3 +20,14 @@ docker run --help'
 
 docker run --help
 sudo su
+ls
+git init
+sudo su
+ls
+nano Dockerfile
+git init
+ls
+git status
+git add .
+git config --global --add 
+sudo su
